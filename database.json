@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sajjad",
+        "email": "sajjadmazharjr@gmail.com",
+        "phone": "7003853731",
+        "password": "imtheflash"
+    },
+    {
+        "name": "Ujjwal",
+        "email": "ujjwal420@gmail.com",
+        "phone": "38383847",
+        "password": "thisisujjwal"
+    },
+    {
+        "name": "Saikiran",
+        "email": "sai2020@gamil.com",
+        "phone": "9933882211",
+        "password": "123321"
+    },
+    {
+        "name": "Aadarsh",
+        "email": "aadarsh123@gmail.com",
+        "phone": "8833664673",
+        "password": "0000"
+    },
+    {
+        "name": "Abhimanyu",
+        "email": "abhi1212@gmail.com",
+        "phone": "7733664822",
+        "password": "12345678"
+    }
+]
